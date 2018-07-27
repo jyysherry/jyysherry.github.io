@@ -84,8 +84,9 @@ features-title: Featured topics
 # and full paths of the various OSes in compose.rb. For my Windows
 # environment, I just put a subl.cmd file in my PATH that points to the full
 # path to Sublime's subl.exe.) Also, put your most common post extension.
+
 compose:
-  editor: subl
+  editor: atom
   extension: md
 
 # choose where to put back and next links:
