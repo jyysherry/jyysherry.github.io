@@ -11,8 +11,8 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _site name_
-description: _description_
+title: I'm Sherry（江月怡）.
+description: I am a researcher. Nice to meet you!
 owner:
   name: Sherry Yueyi Jiang # or company name
   url: "https://yjiang01.github.io/blog/" # your URL
@@ -28,19 +28,19 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_
-  text: _Your detailed greeting text_
+  title: Hi.
+  text: I'm a PhD student studying Psychology & Cognitive Science at UC San Diego. My research is focused on understanding the cognitive and computataionl mechanisms underlying social interactions.
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: Thanks for visiting my site.
+closing-para: Let's get in touch!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/_username_
+  twitter: https://twitter.com/sherryjiangyui
   github: https://github.com/yjiang01
-  linkedin-square: https://linkedin.com/in/_username_
-  facebook-official: https://facebook.com/_username_
-  google-plus-square: https://plus.google.com/u/0/+_username_
+  linkedin-square: https://www.linkedin.com/in/sherry-yueyi-jiang/
+#  facebook-official: https://facebook.com/_username_
+#  google-plus-square: https://plus.google.com/u/0/+_username_
   email: /contact/ # you can configure and use this contact page or use your email addy
   #flickr:
   #instagram:
