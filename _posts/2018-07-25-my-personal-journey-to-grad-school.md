@@ -12,3 +12,7 @@ background-image: begin.jpg
 #date: 2018-07-25 15:54:43
 #lastupdated: 2018-07-25 15:54:43
 ---
+
+#### Disclaimer
+
+- Just simply sharing my own experience. 
