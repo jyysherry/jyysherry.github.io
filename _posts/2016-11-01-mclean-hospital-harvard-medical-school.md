@@ -1,7 +1,7 @@
 ---
 priority: 0.6
-title: McLean Hospital - Harvard Medical School
-excerpt: Clinical Research Assistant at Laboratory for Affective and Translational Neuroscience
+title: McLean Hospital
+excerpt: Clinical Research Assistant at Laboratory for Affective and Translational Neuroscience (Affiliated with Harvard Medical School)
 categories: works
 background-image: works-sample.png
 tags:
@@ -19,8 +19,7 @@ tags:
 #### Research Experience
 -	Conduct phone screens with potential participants and coordinate all aspects of study visits (i.e., scheduling diagnostic interviews with clinicians, preparing subjects for MRI scans, administering reinforcement learning paradigms in the MRI environment).
 -	Perform pre-processing on fMRI data using batch-scripting in SPM 12, and perform quality control inspections on the resulting data, including inspection of motion parameters and registration.
--	Conduct statistical analyses of behavioral data on model-free/model-based learnings and explore/exploit strategies using R, Excel and SPSS.
--	Manipulate files using bash and python scripting (e.g. performing imaging data conversion).
+-	Conduct statistical analyses of behavioral data on model-free/model-based learnings and explore/exploit strategies.
 -	Prepare Institutional Review Board (IRB) submissions and amendments.
 
 #### Posters & Presentations

@@ -23,8 +23,7 @@ tags:
 -	Recruited 119 healthy participants (ages 6 – 24) through local school systems.
 -	Developed an experiment protocol including study design and data collection.
 -	Translated questionnaires and adapted to the Chinese context.
--	Modified experimental scripts using Matlab and E-prime.
-- Analyzed data from a fairness game using R and Matlab.
+- Conducted model-based analysis (e.g., Fehr-Schmidt inequality aversion utility, temporal difference learning model and Bayesian observer model) on the learning part from a fairness game.
 
 #### Posters & Presentations
 
