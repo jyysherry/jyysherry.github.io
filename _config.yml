@@ -11,7 +11,7 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: I'm Sherry Yueyi Jiang（江月怡）.
+title: I'm Sherry（江月怡）.
 description: I am a researcher and a serious tea lover. Nice to meet you!
 owner:
   name: Sherry Yueyi Jiang # or company name
@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Hi.
-  text: I'm a PhD student studying Psychology & Cognitive Science at UC San Diego. My research is focused on understanding the cognitive and computataionl mechanisms underlying social interactions.
+  text: I'm a prospective PhD student studying Psychology & Cognitive Science at UC San Diego. My research is focused on understanding the cognitive and computataionl mechanisms underlying social interactions.
 # - displayed at the bottom
 closing-head: Thanks for visiting my site.
 closing-para: Let's get in touch!
@@ -37,7 +37,7 @@ closing-para: Let's get in touch!
 # on all pages (and the first three you list display with greeting, if included)
 social:
   twitter: https://twitter.com/sherryjiangyui
-  github: https://github.com/yjiang01
+#  github: https://github.com/yjiang01
   linkedin-square: https://www.linkedin.com/in/sherry-yueyi-jiang/
 #  facebook-official: https://facebook.com/_username_
 #  google-plus-square: https://plus.google.com/u/0/+_username_
