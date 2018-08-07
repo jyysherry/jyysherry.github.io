@@ -3,6 +3,7 @@ title: Photography
 excerpt: True life
 permalink: /topics/personal/
 tags: featured
+author: yjiang01
 categories:
   - topics
   - photography
