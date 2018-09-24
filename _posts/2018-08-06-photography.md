@@ -1,9 +1,9 @@
 ---
 title: Photography
 excerpt: True life
+author: yjiang01
 permalink: /topics/personal/
 tags: featured
-author: yjiang01
 categories:
   - topics
   - photography
@@ -28,3 +28,5 @@ date: 2018-08-06 00:00
 
 #### Mom's Spirit Animal (in Peru)
 ![useful image]({{ site.url }}/images/llama.jpeg)
+
+#### High resolution photos coming soon...
