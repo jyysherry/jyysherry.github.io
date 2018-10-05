@@ -1,6 +1,6 @@
 ---
 title: Photography
-excerpt: seasons
+excerpt: Seasons
 author: yjiang01
 permalink: /topics/personal/
 tags: featured
