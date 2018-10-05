@@ -1,6 +1,6 @@
 ---
 title: Photography
-excerpt: True life
+excerpt: seasons
 author: yjiang01
 permalink: /topics/personal/
 tags: featured

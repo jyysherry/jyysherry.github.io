@@ -1,5 +1,5 @@
 ---
-title: My journey to grad school 
+title: My journey to grad school
 excerpt: Based on my own experience
 author: yjiang01
 categories:
@@ -13,7 +13,7 @@ date: 2018-07-31 00:02
 
 #### Disclaimer
 
-I should clarify explicitly that this post is not about convincing anyone to pursue a PhD. The purpose here is to provide some helpful (hopefully) references for the ones who consider graduate school. The post intends to cover some personal experience regarding grad school application preparation, the application process and PhD interviews...
+I should clarify explicitly that this post is not about convincing anyone to pursue a PhD. The purpose here is to provide some helpful (hopefully) references for people who consider a PhD in psychology. The post intends to cover some personal experience regarding grad school application preparation, the application process and PhD interviews...
 
 #### Academic interviews
 
