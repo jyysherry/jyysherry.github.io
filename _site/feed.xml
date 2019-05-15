@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I'm Sherry（江月怡）.</title>
+    <description>I am a researcher and a serious tea lover. Nice to meet you!</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 14 May 2019 16:11:53 -0700</pubDate>
+    <lastBuildDate>Tue, 14 May 2019 16:11:53 -0700</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Current Research</title>
+        <description>&lt;h4 id=&quot;coming-soon&quot;&gt;Coming soon&lt;/h4&gt;
+</description>
+        <pubDate>Tue, 14 May 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/project/</link>
+        <guid isPermaLink="true">http://localhost:4000/project/</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>project</category>
+        
+        <category>topics</category>
+        
+      </item>
+    
+      <item>
+        <title>Photography</title>
+        <description>&lt;h4 id=&quot;winter-is-coming&quot;&gt;Winter is coming&lt;/h4&gt;
+
+&lt;p class=&quot;nobullet&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/winter1.jpg&quot; alt=&quot;useful image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/winter2.jpg&quot; alt=&quot;useful image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/winter3.jpg&quot; alt=&quot;useful image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/winter4.jpg&quot; alt=&quot;useful image&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;no-winter-lasts-forever-no-spring-skips-its-turn&quot;&gt;No winter lasts forever; no Spring skips its turn.&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/spring1.jpg&quot; alt=&quot;useful image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/spring2.jpg&quot; alt=&quot;useful image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/spring3.jpg&quot; alt=&quot;useful image&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/spring4.jpg&quot; alt=&quot;useful image&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;moms-spirit-animal-in-peru&quot;&gt;Mom’s Spirit Animal (in Peru)&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/llama.jpeg&quot; alt=&quot;useful image&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;high-resolution-photos-coming-soon&quot;&gt;High resolution photos coming soon…&lt;/h4&gt;
+</description>
+        <pubDate>Mon, 06 Aug 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/topics/personal/</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/personal/</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>topics</category>
+        
+        <category>photography</category>
+        
+      </item>
+    
+      <item>
+        <title>My journey to grad school</title>
+        <description>&lt;h4 id=&quot;disclaimer&quot;&gt;Disclaimer&lt;/h4&gt;
+
+&lt;p&gt;I should clarify explicitly that this post is not about convincing anyone to pursue a PhD. The purpose here is to provide some helpful (hopefully) references for people who consider a PhD in psychology. The post intends to cover some personal experience regarding grad school application preparation, the application process and PhD interviews…&lt;/p&gt;
+
+&lt;h4 id=&quot;academic-interviews&quot;&gt;Academic interviews&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;转载自一亩三分地自己以前的帖子&lt;/em&gt;
+这次的申请也算是告一个段落了，上周末面完最后一个学校，觉得趁着还没有全部忘记前写点申请面试的经验，也希望可以对之后申请的童鞋们有点参考帮助。一共面了5所学校， 都是on campus open house， 但是真的喜欢的也只有2所 （学校选你的时候，也是你选学校，所以在面试期间你可以感受到program是否personally／professionally fit）。接下来总结了些这次申请之旅的想法。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;认清自己的优势，并弄清楚教授以往招的人的硬件。这次申请我就是在综排20内学校选导师。比如说我做认知神经科学实验，其中有计算机建模。Phd申请的lab大多都是专门做cognitive modeling的，但是对于我这个非工科（本科是文理学院生物加心理双专业 - 偏文科）的人强调建模就不会有很多优势，即使我的research很多都跟modeling有关。因为做这个方向的大部分教授都是工科背景（物理数学EE或者计算机phd), 招的学生也基本都是有相应学位。所以如果没有工科学历或minor，要想拿到offer最好target和这些工科认知大牛collaborate的教授，并强调你有这方面经验，这样录取概率会大很多。&lt;/li&gt;
+  &lt;li&gt;要时刻记得你的目的是拿到offer，就算渠道跟你想的不一样。在usc面social psychology的时候，（我申的是brain and cognitive science，但是申请的教授虽然做social/cognitive neuroscience但是属于social psychology的faculty，所以只能跟social psy的人面），其中一个教授问我是否想好要做social psy，因为她觉得我“smelll ike a cog neuro person”.我当时很诚实地说我不太了解social psy这个领域，当初申请的是cog neuro，教授把我安排到social psy recruit来了。现在看来很傻很天真。因为事实上，不同系requirement差不太多，phd基本就是跟着教授做research，所以无所谓什么系。虽然跟面的教授都有很好的rapport，但是后来我申请的教授跟我说，他试着把我的profile转到cog neuro，因为是不同的committee（我一个都没有见过），他虽然recommend我但是committee没通过，所以就被拒了。在这个事件上，我觉得当初我要是表达就要呆在social不move profile到另外一个系可能结果会不太一样。&lt;/li&gt;
+  &lt;li&gt;另外一个经验是，当教授问你为什么要选cognitive psychology, cognitive neuroscience or social psychology的时候（不同department分出来的系不同），得说出个所以然。面duke的cog neuro program的时候，一个教授问我的interests，我说喜欢总结研究脑数据的规律，然后了解人大脑的认知过程。教授说那你光做behav也行，不用做neuroscience。我觉得那个教授没有被我convinced我是真的对做cog nuero有热情（读了grad school后一想确实主要想做behav)。确实当时的回答更像是在申请cog psychology, 我应该说我的兴趣在研究the brain, 这样会更贴切cog neuro的研究兴趣。&lt;/li&gt;
+  &lt;li&gt;要准备好谈你的下一个step。基本教授都会问的问题，不光是你有什么研究经验，更重要的是你在phd想做啥。我觉得可以这么想：你以前在读书的时候都是上课，就算做科研很多也是继承教授的兴趣，所以更多偏向于absorbing knowledge，但是phd期间你在慢慢学会的是怎么produce knowledge，所以表述你之后想研究的大方向很重要。这个需要注意的是你要既表现的你不是对未来方向totally clueless，又不能说的太死，只能做什么，而不能explore其他的。我觉得最佳回答，是提及几个系里教授名字，然后说你感兴趣他们做的什么，为什么你有兴趣。这样就可以表现你的initiative， 完美回答为什么你要选择这个program。
+现在暂时想到这些，面试过程既让人兴奋也让人疲惫，准备期间不用太紧张，你要想，这个过程就是谈论科研，而大部分科研想法的诞生都不是在formal的场景而是coffee break或者casual talk。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 31 Jul 2018 00:02:00 -0700</pubDate>
+        <link>http://localhost:4000/topics/personal/my-journey-to-grad-school.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/personal/my-journey-to-grad-school.html</guid>
+        
+        
+        <category>topics</category>
+        
+        <category>personal</category>
+        
+      </item>
+    
+      <item>
+        <title>Curriculum vitae</title>
+        <description>&lt;p&gt;You can click &lt;a href=&quot;https://drive.google.com/file/d/1HjjABgJTQcrxwWJOaoXTPNEIpjDivNUV/view?usp=sharing&quot;&gt;here&lt;/a&gt; to view my CV&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Jul 2018 00:01:00 -0700</pubDate>
+        <link>http://localhost:4000/topics/personal/curriculum-vitae.html</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/personal/curriculum-vitae.html</guid>
+        
+        
+        <category>topics</category>
+        
+        <category>personal</category>
+        
+      </item>
+    
+      <item>
+        <title>Personal</title>
+        <description>&lt;p&gt;I am a PhD student in the &lt;a href=&quot;https://psychology.ucsd.edu/&quot;&gt;Department of Psychology&lt;/a&gt; at UC San Diego, working with &lt;a href=&quot;http://psy2.ucsd.edu/~pwinkiel/&quot;&gt;Piotr Winkleman, PhD&lt;/a&gt;. Previously, I worked as a clinical research assistant at &lt;a href=&quot;http://cdasr.mclean.harvard.edu/&quot;&gt;McLean Hospital&lt;/a&gt; with &lt;a href=&quot;https://cdasr.mclean.harvard.edu/kumar/&quot;&gt;Poornima Kumar, PhD&lt;/a&gt;, &lt;a href=&quot;https://alexiswhitton.org/&quot;&gt;Alexis Whitton, PhD&lt;/a&gt;, and &lt;a href=&quot;https://cdasr.mclean.harvard.edu/pizzagalli/&quot;&gt;Diego Pizzagalli, PhD&lt;/a&gt;. Starting from my research journey at &lt;a href=&quot;http://athapar.blogs.brynmawr.edu/student-research/&quot;&gt;Bryn Mawr College&lt;/a&gt; (15’), I have developed an interest in computational modeling approach to study reinforcement learning and social cognition, and how these processes interact could inform social decision-making.&lt;/p&gt;
+
+&lt;p&gt;I’m originally from &lt;a href=&quot;https://youtu.be/04rYFwZ5uqA&quot;&gt;Shenzhen (China)&lt;/a&gt; (actually weather-wise San Diego is a lot like my hometown), so I try to take advantage of everything the East Coast and West Coast could offer. When I’m not sitting (playing Dota2 or whatever) in front of a computer, you’re likely to find me hanging out with the seals at La Jolla Cove, playing badminton, trying exotic food and chilling with friends.&lt;/p&gt;
+
+&lt;p&gt;Favorite TV shows: Black Mirror, Silicon Valley, The Good Fight, Game of Thrones, Criminal Minds, Bones…&lt;/p&gt;
+
+&lt;p class=&quot;nobullet&quot;&gt;Spirit Animal (an egg yolk wrapped with bacon wearing a Mexican hat):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/gudetama.jpg&quot; alt=&quot;useful image&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Jul 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/topics/photography/</link>
+        <guid isPermaLink="true">http://localhost:4000/topics/photography/</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>topics</category>
+        
+        <category>personal</category>
+        
+      </item>
+    
+      <item>
+        <title>Stanford University</title>
+        <description>&lt;h4 id=&quot;research-experience&quot;&gt;Research Experience&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Examine the haptic effects associated with different body sites.&lt;/li&gt;
+  &lt;li&gt;Use haptic device to facilitate emotion regulation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/stanford-university.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/stanford-university.html</guid>
+        
+        <category>Haptic</category>
+        
+        <category>Human Computer Interaction (HCI)</category>
+        
+        <category>Emotion Regulation</category>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>McLean Hospital</title>
+        <description>&lt;h4 id=&quot;projects-lead-research-assistant&quot;&gt;Projects (Lead Research Assistant)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dysfunctions in reward processing in unipolar and bipolar depression (fMRI &amp;amp; behavioral)&lt;/li&gt;
+  &lt;li&gt;The neural correlates of reinforcement learning in current and remitted depression (fMRI &amp;amp; behavioral)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;research-experience&quot;&gt;Research Experience&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Conduct phone screens with potential participants and coordinate all aspects of study visits (i.e., scheduling diagnostic interviews with clinicians, preparing subjects for MRI scans, administering reinforcement learning paradigms in the MRI environment).&lt;/li&gt;
+  &lt;li&gt;Perform pre-processing on fMRI data using batch-scripting in SPM 12, and perform quality control inspections on the resulting data, including inspection of motion parameters and registration.&lt;/li&gt;
+  &lt;li&gt;Conduct statistical analyses of behavioral data on model-free/model-based learnings and explore/exploit strategies.&lt;/li&gt;
+  &lt;li&gt;Prepare Institutional Review Board (IRB) submissions and amendments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;posters--presentations&quot;&gt;Posters &amp;amp; Presentations&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Jiang, Y., Pizzagalli, D.A., &amp;amp; Kumar, P. (January 2018) The effects of dopamine on reinforcement learning in depressed individuals. Poster presentation at the 9th Annual McLean Research Day, Belmont, MA.&lt;/li&gt;
+  &lt;li&gt;Jiang, Y., Green, I., Pizzagalli, D.A., &amp;amp; Kumar, P. (September 2017) Model-based learning in individuals with depression. Poster presentation at the 31st Annual Meeting for the Society for Research in Psychopathology (SRP), Denver, CO.&lt;/li&gt;
+  &lt;li&gt;Kumar, P., Jensen, J.E., Bachetti, J.L., Jiang. Y., Pizzagalli, D.A. (May 2017) Influence of baseline GABA on reward prediction error in healthy and depressed individuals. Poster presentation at the 72nd Annual Meeting of the Society of Biological Psychiatry (SOBP), San Diego, CA.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 01 Nov 2016 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/mclean-hospital-harvard-medical-school.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/mclean-hospital-harvard-medical-school.html</guid>
+        
+        <category>Clinical Neuroscience</category>
+        
+        <category>Mood Disorders</category>
+        
+        <category>Reinforcement Learning</category>
+        
+        <category>fMRI</category>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Shenzhen University</title>
+        <description>&lt;h4 id=&quot;projects-lead-research-assistant&quot;&gt;Projects (Lead Research Assistant)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The development of norm adaptation across development (behavioral)&lt;/li&gt;
+  &lt;li&gt;The contribution of prefrontal cortex to norm adaptation (fNIRS)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;research-experience&quot;&gt;Research Experience&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Recruited 119 healthy participants (ages 6 – 24) through local school systems.&lt;/li&gt;
+  &lt;li&gt;Developed an experiment protocol including study design and data collection.&lt;/li&gt;
+  &lt;li&gt;Translated questionnaires and adapted to the Chinese context.&lt;/li&gt;
+  &lt;li&gt;Conducted model-based analysis (e.g., Fehr-Schmidt inequality aversion utility, temporal difference learning model and Bayesian observer model) on the learning part from a fairness game.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;posters--presentations&quot;&gt;Posters &amp;amp; Presentations&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Xu, P., Jiang, Y., Yu, M., Xu, J., Qin, L., &amp;amp; Luo, Y. (July 2016). Social norm and prefrontal development: an fNIRS study. Oral presentation given at the 3rd Symposium on Brain Imaging and EEG Applications, Dalian, China&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 01 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/works/shenzhen-university.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/shenzhen-university.html</guid>
+        
+        <category>Cognitive Neuroscience</category>
+        
+        <category>Social Cognition</category>
+        
+        <category>Ultimatum Game</category>
+        
+        <category>Neuroeconomics</category>
+        
+        <category>Matlab</category>
+        
+        <category>fNIRS</category>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>Bryn Mawr College</title>
+        <description>&lt;h4 id=&quot;projects-biology-and-psychology&quot;&gt;Projects (Biology and Psychology)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The decision processes underlying memory performance (Cognitive Psychology)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The evolutionary genetics of yeast (Bioinformatics)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;research-experience&quot;&gt;Research Experience&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fitted the diffusion model on item memory recognition task performance among 30 high medial temporal lobe (MTL) functioning adults and 30 low MTL functioning adults.&lt;/li&gt;
+  &lt;li&gt;Compared model fitting of HDDM and fast-dm methods using cumulative density functions, linear regression and parameter recovery analysis.&lt;/li&gt;
+  &lt;li&gt;Performed genetic variation analysis on large-scale DNA sequencing data of a yeast pathogen Candida Glabrata and described the genetic polymorphisms across the entire genome using bioinformatics tools.&lt;/li&gt;
+  &lt;li&gt;Quantified the population structure of the same species by using a distance-based multivariate technique, multidimensional scaling as well as creating a phylogenetic tree of the sequenced strains.&lt;/li&gt;
+  &lt;li&gt;Developed a pipeline for genome analysis with bioinformatics programs and computer clusters.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;posters--presentations&quot;&gt;Posters &amp;amp; Presentations&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jiang, Y. (May 2016). Model comparison and parameter recovery of two diffusion models: Fast-dm and HDDM. Oral presentation given at Bryn Mawr Psychology Department, Bryn Mawr, PA.&lt;/li&gt;
+  &lt;li&gt;Jiang, Y. (December 2015). Variant detection and population structure analysis in yeast Candida Glabrata. Oral presentation given at Bryn Mawr Biology Department, Bryn Mawr, PA.&lt;/li&gt;
+  &lt;li&gt;Jiang, Y. (September 2015). Comparison of two diffusion models on item recognition memory task. Poster presented at the 26th Annual Summer Science Research Symposium, Bryn Mawr, PA.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/works/bryn-mawr-college.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/bryn-mawr-college.html</guid>
+        
+        <category>Bioinformatics</category>
+        
+        <category>Cognitive Psychology</category>
+        
+        <category>Drift-diffusion Model</category>
+        
+        <category>Genomics</category>
+        
+        <category>Memory</category>
+        
+        <category>Python</category>
+        
+        <category>R Programming</category>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+  </channel>
+</rss>
