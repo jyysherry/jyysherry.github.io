@@ -5,8 +5,8 @@
     <description>Nice to meet you. Welcome to my site!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Aug 2019 16:02:51 -0700</pubDate>
-    <lastBuildDate>Fri, 16 Aug 2019 16:02:51 -0700</lastBuildDate>
+    <pubDate>Fri, 16 Aug 2019 16:31:01 -0700</pubDate>
+    <lastBuildDate>Fri, 16 Aug 2019 16:31:01 -0700</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -30,13 +30,13 @@
         <title>Photography</title>
         <description>&lt;h4 id=&quot;winter-is-coming&quot;&gt;Winter is coming&lt;/h4&gt;
 
-&lt;p class=&quot;nobullet&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/winter1.jpg&quot; alt=&quot;useful image&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/winter2.jpg&quot; alt=&quot;useful image&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/winter3.jpg&quot; alt=&quot;useful image&quot; /&gt;
-&lt;img src=&quot;http://localhost:4000/images/winter4.jpg&quot; alt=&quot;useful image&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;nobullet&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/winter1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/winter2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/winter3.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/images/winter4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;no-winter-lasts-forever-no-spring-skips-its-turn&quot;&gt;No winter lasts forever; no Spring skips its turn.&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/spring1.jpg&quot; alt=&quot;useful image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/spring1.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;http://localhost:4000/images/spring2.jpg&quot; alt=&quot;useful image&quot; /&gt;
 &lt;img src=&quot;http://localhost:4000/images/spring3.jpg&quot; alt=&quot;useful image&quot; /&gt;
 &lt;img src=&quot;http://localhost:4000/images/spring4.jpg&quot; alt=&quot;useful image&quot; /&gt;&lt;/p&gt;
