@@ -20,20 +20,23 @@ date: 2018-08-06 00:00
 <img src="{{site.baseurl}}/images/winter3.jpg">
 <img src="{{site.baseurl}}/images/winter4.jpg">
 
-
 #### No winter lasts forever; no Spring skips its turn.
-![]({{ site.url }}/images/spring1.jpg)
-![useful image]({{ site.url }}/images/spring2.jpg)
-![useful image]({{ site.url }}/images/spring3.jpg)
-![useful image]({{ site.url }}/images/spring4.jpg)
+
+<img src="{{site.baseurl}}/images/spring1.jpg">
+<img src="{{site.baseurl}}/images/spring2.jpg">
+<img src="{{site.baseurl}}/images/spring3.jpg">
+<img src="{{site.baseurl}}/images/spring4.jpg">
 
 #### Mom's Spirit Animal (in Peru)
-![useful image]({{ site.url }}/images/llama.jpeg)
+
+<img src="{{site.baseurl}}/images/llama.jpeg">
 
 #### West coast adventures
-![useful image]({{ site.url }}/images/grandcanyon.jpeg)
-![useful image]({{ site.url }}/images/DV.jpeg)
-![useful image]({{ site.url }}/images/DV1.jpeg)
+
+<img src="{{site.baseurl}}/images/grandcanyon.jpeg">
+<img src="{{site.baseurl}}/images/DV.jpeg">
+<img src="{{site.baseurl}}/images/DV1.jpeg">
 
 #### Walking on the street of the Heshun Ancient Town (in Yunnan)
-![useful image]({{ site.url }}/images/yunnan.jpeg)
+
+<img src="{{site.baseurl}}/images/yunnan.jpeg">
