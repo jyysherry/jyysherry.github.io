@@ -29,4 +29,10 @@ date: 2018-08-06 00:00
 #### Mom's Spirit Animal (in Peru)
 ![useful image]({{ site.url }}/images/llama.jpeg)
 
-#### High resolution photos coming soon...
+#### West coast adventures
+![useful image]({{ site.url }}/images/grandcanyon.jpeg)
+![useful image]({{ site.url }}/images/DV.jpeg)
+![useful image]({{ site.url }}/images/DV1.jpeg)
+
+#### Walking on the street of the Heshun Ancient Town (in Yunnan)
+![useful image]({{ site.url }}/images/yunnan.jpeg)

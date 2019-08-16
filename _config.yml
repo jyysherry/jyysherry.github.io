@@ -12,7 +12,7 @@
 
 # Site settings
 title: I'm Sherry（江月怡）.
-description: I am a researcher and a serious tea lover. Nice to meet you!
+description: Nice to meet you. Welcome to my site!
 owner:
   name: Sherry Yueyi Jiang # or company name
   url: "https://sherry-jyy.com" # your URL
@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Hi.
-  text: I'm a PhD student in the Department of Psychology at UC San Diego. My research is focused on understanding the cognitive and computataionl mechanisms underlying social cognition.
+  text: I'm a PhD student in the Department of Psychology at UC San Diego. Broadly, my research interests focus on  the interplay between emotion and decision making. Specifically, I'm interested in topics related to affect,  social influence, political/moral decision making, social networks and computational social science.
 # - displayed at the bottom
 closing-head: Thanks for visiting my site.
 closing-para: Let's get in touch!

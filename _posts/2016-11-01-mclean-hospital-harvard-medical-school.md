@@ -11,16 +11,10 @@ tags:
   - fMRI
 ---
 
-#### Projects (Lead Research Assistant)
+####  Research Experience
 
-- Dysfunctions in reward processing in unipolar and bipolar depression (fMRI & behavioral)
-- The neural correlates of reinforcement learning in current and remitted depression (fMRI & behavioral)
-
-#### Research Experience
--	Conduct phone screens with potential participants and coordinate all aspects of study visits (i.e., scheduling diagnostic interviews with clinicians, preparing subjects for MRI scans, administering reinforcement learning paradigms in the MRI environment).
--	Perform pre-processing on fMRI data using batch-scripting in SPM 12, and perform quality control inspections on the resulting data, including inspection of motion parameters and registration.
--	Conduct statistical analyses of behavioral data on model-free/model-based learnings and explore/exploit strategies.
--	Prepare Institutional Review Board (IRB) submissions and amendments.
+- Examined dysfunctions in reward processing in unipolar and bipolar depression (fMRI & behavioral)
+- Investigated the neural correlates of reinforcement learning in current and remitted depression (fMRI & behavioral)
 
 #### Posters & Presentations
 - Jiang, Y., Pizzagalli, D.A., & Kumar, P. (January 2018) The effects of dopamine on reinforcement learning in depressed individuals. Poster presentation at the 9th Annual McLean Research Day, Belmont, MA.

@@ -6,15 +6,12 @@ categories: works
 background-image: works-sample.png
 tags:
   - Bioinformatics
-  - Cognitive Psychology
-  - Drift-diffusion Model
   - Genomics
+  - Drift-diffusion Model
   - Memory
-  - Python
-  - R Programming
 ---
 
-#### Projects (Biology and Psychology)
+#### Undergraduate Theses (Biology and Psychology)
 
 - The decision processes underlying memory performance (Cognitive Psychology)
 
@@ -23,12 +20,8 @@ tags:
 
 #### Research Experience
 
-- Fitted the diffusion model on item memory recognition task performance among 30 high medial temporal lobe (MTL) functioning adults and 30 low MTL functioning adults.
-- Compared model fitting of HDDM and fast-dm methods using cumulative density functions, linear regression and parameter recovery analysis.
-- Performed genetic variation analysis on large-scale DNA sequencing data of a yeast pathogen Candida Glabrata and described the genetic polymorphisms across the entire genome using bioinformatics tools.
-- Quantified the population structure of the same species by using a distance-based multivariate technique, multidimensional scaling as well as creating a phylogenetic tree of the sequenced strains.
-- Developed a pipeline for genome analysis with bioinformatics programs and computer clusters.
-
+- Used the drift diffusion model to compare the difference in item memory recognition task performance between high medial temporal lobe (MTL) functioning adults and low MTL functioning adults.
+- Performed genetic variation analysis on large-scale DNA sequencing data of a yeast pathogen *Candida Glabrata*. Quantified the population structure of the same species by using a distance-based multivariate technique, multidimensional scaling as well as creating a phylogenetic tree of the sequenced strains.
 
 #### Posters & Presentations
 
