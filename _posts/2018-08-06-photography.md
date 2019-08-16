@@ -14,10 +14,11 @@ date: 2018-08-06 00:00
 #### Winter is coming
 
 {:.nobullet}
-![]({{ site.url }}/images/winter1.jpg)
-![]({{ site.url }}/images/winter2.jpg)
-![]({{ site.url }}/images/winter3.jpg)
-![]({{ site.url }}/images/winter4.jpg)
+
+<img src="{{site.baseurl}}/images/winter1.jpg">
+<img src="{{site.baseurl}}/images/winter2.jpg">
+<img src="{{site.baseurl}}/images/winter3.jpg">
+<img src="{{site.baseurl}}/images/winter4.jpg">
 
 
 #### No winter lasts forever; no Spring skips its turn.
